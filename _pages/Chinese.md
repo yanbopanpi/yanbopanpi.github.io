@@ -2,9 +2,12 @@
 permalink: /markdown/
 title: "潘彦博"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
+  - /yanbo_pan.github.io/markdown/
+  - /yanbo_pan.github.io/md/
+  - /yanbo_pan.github.io/markdown.html
 ---
 
 您好！我是[密歇根大学安娜堡分校](https://umich.edu/)的一名本科生，主修[天文物理](https://lsa.umich.edu/astro)与[统计](https://lsa.umich.edu/stats)。我预计将在2025年5月毕业，并计划于2025年秋季开始攻读研究生学位。
@@ -20,8 +23,8 @@ redirect_from:
 
 如果您对我的研究感兴趣，欢迎随时通过电子邮件与我联系：**panpi@umich.edu**。
 
-- 如需了解我的科研详情，请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//publications/)。  
-- 如需查看我的个人简历，请[点击此处](https://yanbopanpi.github.io/yanbo_pan.github.io//files/Yanbo_Pan_Resume.pdf)。
+- 如需了解我的科研详情，请[点击此处]({{ '/publications/' | relative_url }})。  
+- 如需查看我的个人简历，请[点击此处]({{ '/files/Yanbo_Pan_Resume.pdf' | relative_url }})。
 
 
 <!---

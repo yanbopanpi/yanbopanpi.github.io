@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /yanbo_pan.github.io/cv/
+  - /yanbo_pan.github.io/resume
 ---
 
 {% include base_path %}

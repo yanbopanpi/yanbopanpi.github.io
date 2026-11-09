@@ -2,6 +2,8 @@
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-06-06
+redirect_from:
+  - /yanbo_pan.github.io/terms/
 ---
 
 {% include base_path %}

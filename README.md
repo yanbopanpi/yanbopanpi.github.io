@@ -4,7 +4,48 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-# Instructions
+# Publishing at yanbopanpi.github.io
+
+The site is configured for `https://yanbopanpi.github.io`. Before pushing these
+migration changes, commit them locally and rename the GitHub repository from
+`yanbo_pan.github.io` to **`yanbopanpi.github.io`** under **Settings > General**.
+The local folder can keep its current name.
+
+After renaming the GitHub repository, update the local remote and push:
+
+```sh
+git remote set-url origin git@github.com:yanbopanpi/yanbopanpi.github.io.git
+git push origin master
+```
+
+Under **Settings > Pages**, check that the publishing source is still the
+`master` branch and the `/(root)` folder. After the Pages deployment succeeds,
+check both the new homepage and the old address:
+
+- `https://yanbopanpi.github.io/`
+- `https://yanbopanpi.github.io/yanbo_pan.github.io/` (redirects to the new homepage)
+- `https://yanbopanpi.github.io/yanbo_pan.github.io/publications/` (redirects to the new research page)
+- `https://yanbopanpi.github.io/yanbo_pan.github.io/files/CV.pdf` (retains the PDF download)
+
+Old page addresses are listed in each page's `redirect_from` front matter.
+`jekyll-redirect-from` creates HTML refresh redirects; these are not HTTP 301
+responses. Keep those aliases so existing bookmarks and search results work.
+
+PDFs are served as real files at both the current and old locations. Whenever
+you update a download under `files/`, synchronize the old location before
+committing, and include both copies in your commit:
+
+```sh
+python3 scripts/sync-legacy-files.py
+ruby test/site_migration_test.rb
+```
+
+The regression checks validate the configuration, redirect coverage and
+destinations, and identical download copies. They do not replace a full Jekyll
+build. If the Jekyll dependencies are already installed, also run
+`bundle exec jekyll build --safe` before publishing.
+
+# Original template instructions
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
