@@ -84,7 +84,7 @@ author:
   avatar           : "Profile_.jpg"
   bio              : "Astrophysics & Statistics @ UVa"
   location         : "Charlottesville, VA"
-  major            : "Astrophysics & Statistics"
+  # major            : "Astrophysics & Statistics"
   employer         : "University of Virginia"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   email            : "war8sk@virginia.edu"

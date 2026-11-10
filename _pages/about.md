@@ -27,7 +27,7 @@ I am an astronomy PhD student at the University of Virginia. I study dark matter
 - **Developing HARLEE:** Building software to help astronomers choose informative follow-up observations of binary stars.
 - **Recent publication:** My first-author [JWST study of WASP-52b](https://doi.org/10.3847/1538-3881/ae9cbc) explores how stellar activity affects the interpretation of an exoplanet’s atmosphere.
 
-![Running Picture]({{ '/images/marathon.jpg' | relative_url }}){: .align-right width="250px"}
+![Running Picture]({{ '/images/marathon.jpg' | relative_url }}){: .align-right width="300px"}
 
 I also mentor student researchers, teach coding workshops, and share astronomy through public outreach.
 
