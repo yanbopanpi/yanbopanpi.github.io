@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Research"
+title: "Welcome to My Research Website!"
 permalink: /publications/
 author_profile: true
 redirect_from:
   - /yanbo_pan.github.io/publications/
 ---
 
-# Welcome to My Research Website!
-# Research
 
 I use stellar dynamics and statistical modeling to study nearby galaxies and develop tools that help astronomers choose informative observations.
 
@@ -33,7 +31,7 @@ I also have studied exoplanet atmospheres.
 
 - **Fournier-Tondreau, Pan et al. (2025), MNRAS:** [WASP-52b with JWST NIRISS](https://doi.org/10.1093/mnras/staf489). Transmission spectroscopy of WASP-52 b with JWST NIRISS: water and helium atmospheric absorption, alongside prominent star-spot crossings
 
-## Earlier research
+## Undergraduate research
 
 My earlier work includes searches for faint galaxies in the Local Group, stellar kinematics in ultra-faint dwarf galaxies, and binary-orbit modeling with the WIYN Open Cluster Survey.
 

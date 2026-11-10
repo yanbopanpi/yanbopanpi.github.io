@@ -12,7 +12,6 @@ redirect_from:
   - /yanbo_pan.github.io/index.html
 ---
 
-# Hello, I am Yanbo
 
 I am an astronomy PhD student at the University of Virginia. I study dark matter and galaxy evolution through stellar populations in nearby galaxies. I also develop statistical tools that help astronomers extract more information from limited telescope observations.
 
