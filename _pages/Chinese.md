@@ -10,21 +10,33 @@ redirect_from:
   - /yanbo_pan.github.io/markdown.html
 ---
 
-您好！我是[密歇根大学安娜堡分校](https://umich.edu/)的一名本科生，主修[天文物理](https://lsa.umich.edu/astro)与[统计](https://lsa.umich.edu/stats)。我预计将在2025年5月毕业，并计划于2025年秋季开始攻读研究生学位。
+您好！我是潘彦博，目前是[弗吉尼亚大学](https://www.virginia.edu/)的天文学博士生。我通过研究近邻星系中的恒星族群，探索暗物质的分布与星系的演化，也开发统计方法，帮助天文学家从有限的观测中获取更多信息。
 
-目前，我的导师包括 [Robert Mathieu](https://mywcerlegacy.wceruw.org/Content/CVs/824-MathieuRobert.pdf) 教授、[Eric Bell](https://sites.lsa.umich.edu/ericbell/) 教授、[Marla Geha](http://www.astro.yale.edu/mgeha/) 教授和 [Ryan MacDonald](https://distantworlds.space/) Sagan Fellow。在此之前，我在中国浙江宁波完成了中学学业。
+## 研究兴趣
 
-在本科期间，我的研究项目涵盖以下几个方向：
-- 寻找超微弱矮星系（UFD）并分析其动力学特性  
-- 模拟白矮星-主序星（WD-MS）双星的轨道  
-- 对热木星（HJ）进行大气建模和模拟  
+- 近场宇宙学与本星系群矮星系
+- 恒星动力学与双星
+- 天文学中的统计建模与计算方法
 
-我热衷于利用统计学模型（如无监督学习、马尔可夫链蒙特卡洛、拒绝采样、多重嵌套抽样）来解决天文领域的科研问题。
+## 近期研究
 
-如果您对我的研究感兴趣，欢迎随时通过电子邮件与我联系：**panpi@umich.edu**。
+- **Sgr dSph的质量分布：** 结合 Gaia 测量的恒星运动与恒星化学成分估计，利用不同化学族群探测这个正在受到潮汐扰动的矮星系的质量结构。目前正在准备论文，并评估观测不确定性和潮汐扰动对结果解释的影响。
+- **HARLEE：为双星观测选择时机：** 在 [theJoker](https://thejoker.readthedocs.io/en/latest/) 的基础上，我开发了轨道预测与观测时机选择流程，通过比较不同可能轨道对未来视向速度的预测，辅助安排后续观测。
+- **近期发表的工作：** 我的第一作者 [WASP-52b 的 JWST 研究论文](https://doi.org/10.3847/1538-3881/ae9cbc)发表于《天文学杂志》（The Astronomical Journal）。这项工作利用贝叶斯大气反演，研究恒星活动如何影响对系外行星大气的解读。
 
-- 如需了解我的科研详情，请[点击此处]({{ '/publications/' | relative_url }})。  
-- 如需查看我的个人简历，请[点击此处]({{ '/files/Yanbo_Pan_Resume.pdf' | relative_url }})。
+[了解更多研究详情]({{ '/publications/' | relative_url }}) · [查看个人简历]({{ '/files/CV.pdf' | relative_url }})
+
+## 关于我
+
+我来自浙江宁波，曾在威斯康星大学麦迪逊分校和密歇根大学安娜堡分校学习，现在在弗吉尼亚州夏洛茨维尔攻读博士。科研之外，我喜欢跑步、网球、乒乓球和徒步。
+
+我也参与本科生科研指导、天文教学和公众天文科普。
+
+## 联系我
+
+如果你对我的研究感兴趣，欢迎通过[电子邮件](mailto:war8sk@virginia.edu)与我联系：**war8sk@virginia.edu**。
+
+**如果你是对天文学、统计学或科研感兴趣的本科生，欢迎找我聊聊，咖啡我请！**
 
 
 <!---
