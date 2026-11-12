@@ -10,7 +10,7 @@ redirect_from:
 
 I use stellar dynamics and statistical modeling to study nearby galaxies and develop tools that help astronomers choose informative observations.
 
-## Sagittarius dSph: Mapping the Mass of a Disrupting Galaxy
+<!-- ## Sagittarius dSph: Mapping the Mass of a Disrupting Galaxy
 
 I combine Gaia measurements of stellar motions with estimates of stellar chemistry to investigate the mass distribution within the Sagittarius dwarf galaxy. My analysis uses chemically distinct stellar populations as complementary tracers of its gravitational field. I am preparing a manuscript and assessing how observational uncertainties and tidal disruption affect the interpretation.
 
@@ -22,7 +22,7 @@ Sparse velocity measurements can leave several possible binary-star orbits consi
 
 Check out my previous [work](https://aas244-aas.ipostersessions.com/default.aspx?s=97-48-6D-B3-10-A4-DC-41-AF-20-C0-B5-14-D8-9F-7D&guestview=true) on binary orbits. 
 
-**Status:** Research software in development.
+**Status:** Research software in development. -->
 
 ## Selected publications
 
