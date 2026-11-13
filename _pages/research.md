@@ -36,7 +36,7 @@ I also have studied exoplanet atmospheres.
 My earlier work includes searches for faint galaxies in the Local Group, stellar kinematics in ultra-faint dwarf galaxies, and binary-orbit modeling with the WIYN Open Cluster Survey.
 
 
-
+My AAS [Poster](https://aas244-aas.ipostersessions.com/default.aspx?s=97-48-6D-B3-10-A4-DC-41-AF-20-C0-B5-14-D8-9F-7D&guestview=true) on binary orbits. 
   
 
 
